@@ -1,4 +1,3 @@
-README FINAL (CÓPIALO TAL CUAL)
 # 🛒 Arquitectura AWS Serverless para E-commerce
 
 ## 📌 Descripción
